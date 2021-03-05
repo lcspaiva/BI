@@ -1,0 +1,4 @@
+#0B1C6A (deep blue)
+#ff0000 (rgb red)
+#00ff00 (rgb green)
+#06A076 (swamp green)
